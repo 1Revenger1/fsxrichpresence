@@ -21,7 +21,7 @@ If you have FSX, the entry should look like:
     <Path>FSXRpc\FSXRichPresence.dll</Path>
   </Launch.Addon>
 ```
-For P3D <v3:
+For P3D v3 and below:
 ```
     <Launch.Addon>
       <Name>P3DRpc</Name>
