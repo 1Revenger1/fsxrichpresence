@@ -41,11 +41,11 @@ For both sims, the entry should be placed as such:
 
 ![Alt text](documentation/dll.png?raw=true "dll")
 
-##Last Step!
+## Last Step!
 This requires the discord-rpc.dll from Discord!
 Download the latest windows release from [here!](https://github.com/discordapp/discord-rpc/releases)
 
-#####Important!
+##### Important!
 If you have P3D v3 or below, OR FSX, use the dll in the folder "win32-dynamic/bin" in the zip you just downloaded
 If you have P3D v4, use the dll in the folder "win64-dynamic/bin"
 
