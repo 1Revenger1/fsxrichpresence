@@ -52,3 +52,10 @@ If you have P3D v4, use the dll in the folder "win64-dynamic/bin".
 The DLL should be placed in the root directory of FSX or P3D, like shown.
 
 ![Alt text](documentation/discord.png?raw=true "discord")
+
+# No image appears for my aircraft!
+There isn't much I can do about that. I don't own very many aircraft myself, but I tried to fill in the aircrafts most used. If you want to send a picture though to be used, create an issue and I'll try to add it.
+
+The image must be square, and have the aircraft centered pretty well and show most of the aircraft.
+
+If I do decide to update the picture, it will not require you to redownload the dll, as all the images are stored on Discord's servers.
