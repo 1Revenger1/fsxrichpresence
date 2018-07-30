@@ -18,7 +18,7 @@ If you have FSX:SE, the entry should look like:
   <Launch.Addon>
     <Name>FSXRpc</Name>
     <Disabled>False</Disabled>
-    <Path>FSXRpc_SE\FSXRichPresence.dll</Path>
+    <Path>FSXRpc\FSXRichPresence.dll</Path>
   </Launch.Addon>
 ```
 For P3D V4:
@@ -26,7 +26,7 @@ For P3D V4:
     <Launch.Addon>
       <Name>P3DRpc</Name>
       <Disabled>False</Disabled>
-      <Path>P3DRpc_43\FSXRichPresence.dll</Path>
+      <Path>P3DRpc_4\FSXRichPresence.dll</Path>
     </Launch.Addon>
 ``` 
 For both sims, the entry should be placed as such:
