@@ -40,3 +40,15 @@ For P3D V4:
 For both sims, the entry should be placed as such:
 
 ![Alt text](documentation/dll.png?raw=true "dll")
+
+##Last Step!
+This requires the discord-rpc.dll from Discord!
+Download the latest windows release from [here!](https://github.com/discordapp/discord-rpc/releases)
+
+#####Important!
+If you have P3D v3 or below, OR FSX, use the dll in the folder "win32-dynamic/bin" in the zip you just downloaded
+If you have P3D v4, use the dll in the folder "win64-dynamic/bin"
+
+The DLL should be placed in the root directory of FSX or P3D, like shown.
+
+![Alt text](documentation/discord.png?raw=true "discord")
