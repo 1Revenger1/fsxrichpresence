@@ -11,7 +11,7 @@ FSXRichPresence is a dll addon for FSX:SE/P3D v4.3 which sends information to yo
 
 ![Alt text](documentation/directoryPlacement.png?raw=true "dir")
 
-3) Next, you will need to go to your dll.xml, which is in "%appData%\Roaming\Microsoft\FSX" for FSX users, or "%appData%\Roaming\Lockheed Martin\prepar3d\". Once you open it, you need to add the dll to the file. You need to add the entry right after your last dll, if you have any. It should be right above the line that reads "</SimBase.Document>"
+3) Next, you will need to go to your dll.xml, which is in "%appData%\Roaming\Microsoft\FSX" for FSX users, or "%appdata%\Lockheed Martin\prepar3d\". Once you open it, you need to add the dll to the file. You need to add the entry right after your last dll, if you have any. It should be right above the line that reads "</SimBase.Document>"
 
 If you have FSX:SE, the entry should look like:
 ```
