@@ -1,0 +1,4 @@
+LIBRARY "FSXRichPresence"
+EXPORTS
+DLLStart
+DLLStop
