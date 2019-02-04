@@ -30,6 +30,7 @@ AircraftParse::AircraftParse() {
 	aircraftMap.insert(make_pair(string("a321iae"), string("a320")));
 	aircraftMap.insert(make_pair(string("b77w"), string("b777")));
 	aircraftMap.insert(make_pair(string("b77l"), string("b777")));
+	aircraftMap.insert(make_pair(string("b748"), string("b744")));
 };
 
 string AircraftParse::parsePlane(string buffer) {
