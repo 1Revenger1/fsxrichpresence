@@ -5,8 +5,8 @@ FSXRichPresence is a dll addon for FSX:SE/P3D v4.3 which sends information to yo
 ![Alt text](documentation/example.png?raw=true "Title")
 
 # How To Install
-1) Download the zip by going to the top right green button "Clone or Download", and download the zip.
-2) Next, you'll want to drag the folder which applies to your sim to the root directory for that sim.
+1) Download the release zip by going to the releases ([Here](https://github.com/1Revenger1/fsxrichpresence/releases))
+2) Next, you'll want to drag the .dll (and only the dll) from the folder which applies to your sim to the root directory for that sim.
   For example, FSX:SE's root directory normally is "C:\Program Files(x86)\Steam\steamapps\common\FSX"
 
 ![Alt text](documentation/directoryPlacement.png?raw=true "dir")
