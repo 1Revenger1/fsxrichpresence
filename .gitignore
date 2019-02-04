@@ -21,9 +21,10 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-./FSXRpc/
-./P3DRpc_4/
-
+SIM_FSXA/
+SIM_P3D4
+FSXRichPresence/SIM_FSXA/
+FSXRichPresence/SIM_P3D4/
 # Visual Studio 2015 cache/options directory
 .vs/
 # Uncomment if you have tasks that create the project's static files in wwwroot

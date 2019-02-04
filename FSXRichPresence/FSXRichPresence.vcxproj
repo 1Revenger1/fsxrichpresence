@@ -145,6 +145,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='SIM_FSXA|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);.\include\;$(WindowsSdkDir)\include;</IncludePath>
+    <IntDir>$(Configuration)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
@@ -153,6 +154,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='SIM_P3D4|x64'">
     <LinkIncremental>false</LinkIncremental>
     <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);.\include\;</IncludePath>
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='SIM_FSXA|x64'">
     <LinkIncremental>false</LinkIncremental>
