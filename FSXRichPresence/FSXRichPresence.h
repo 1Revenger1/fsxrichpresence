@@ -8,8 +8,14 @@
 #define EXPIMP_TEMPLATE extern
 #endif
 
-#include "discord_rpc.h"
-#include "./include/SimConnect.h"
+#ifdef SIM_FSXA
+#include "./include_fsxa/SimConnect.h"
+#include "./include_fsxa/discord_rpc.h"
+#elif SIM_P3D4
+#include "./include_p3d4/SimConnect.h"
+#include "./include_p3d4/discord_rpc.h"
+#endif
+
 #include "Windows.h"
 #include "AircraftParse.h"
 
