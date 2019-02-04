@@ -34,7 +34,7 @@ AircraftParse::AircraftParse() {
 
 string AircraftParse::parsePlane(string buffer) {
 	string temp = buffer;
-	std::transform(temp.begin(), temp.end(), temp.begin(), ::tolower);
+	transform(temp.begin(), temp.end(), temp.begin(), ::tolower);
 
 	it = aircraftMap.find(temp);
 	

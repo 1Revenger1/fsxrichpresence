@@ -2,7 +2,6 @@
 #include "FSXRichPresence.h"
 #include <map>
 #include <string>
-#include <string.h>
 
 class FSXRICHPRESENCE_API AircraftParse {
 
